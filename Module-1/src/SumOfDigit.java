@@ -10,8 +10,10 @@ public class SumOfDigit {
 
     public static void toCalculatedigitsum(int num) {
         int sum = 0;
+
         while(num > 0){
-            sum = sum + num%10;
+            int lastDigit = num % 10;
+            sum = sum + lastDigit;
             num = num/10;
         }
         System.out.println(sum);
