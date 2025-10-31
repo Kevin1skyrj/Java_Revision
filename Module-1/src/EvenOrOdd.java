@@ -9,7 +9,6 @@ public class EvenOrOdd {
             System.out.println("The number you have entered is Even");
         }else {
             System.out.println("The number you have entered is Odd");
-
         }
     }
 }
