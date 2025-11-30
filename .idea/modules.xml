@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class and Object/Class and Object.iml" filepath="$PROJECT_DIR$/Class and Object/Class and Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Revision.iml" filepath="$PROJECT_DIR$/Java Revision.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module-2/Module-2.iml" filepath="$PROJECT_DIR$/Module-2/Module-2.iml" />
     </modules>
   </component>
 </project>
